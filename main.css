@@ -1,0 +1,58 @@
+/*************************************
+GENERAL
+**************************************/
+
+a {
+ text-decoration: none;
+ }
+img {
+max-width: 100%;
+}
+ body {
+   font-family: 'Open Sans', sans-serif;
+ }
+
+ #wrapper {
+   max-width: 75%;
+   margin: 0 auto;
+   padding: 0 5%;
+ }
+ a {
+   color: #32673f;
+ }
+
+/*************************************
+HEADING
+**************************************/
+
+header {
+  float: left;
+  margin: 0 0 20px 0;
+  padding: 2px 0 0 0;
+  width: 100%;
+}
+
+ h1  {
+ font-family: 'Open Sans', sans-serif;
+ margin: 10px 0;
+ font-size: 1.5em;
+ font-weight: normal;
+ line-height: 0.5;
+ text-align: center;
+ color: 	#32993f;
+ }
+
+/*************************************
+PAGE:
+**************************************/
+
+.mydiv {
+    background: lightblue;
+    width:250px;
+    height: 250px;
+}
+
+.myimage {
+    float:left;
+    border-radius: 20px;
+}
