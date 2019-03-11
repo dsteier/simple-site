@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/dsteier/simple-site" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ISQA-Classes/3900-860projectT3" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\David\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\" />
   </component>
   <component name="HgRememberedInputs">
     <option name="visitedUrls">
